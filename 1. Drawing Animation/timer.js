@@ -1,4 +1,4 @@
-export class Timer {
+class Timer {
   constructor(durationInput, startButton, pauseButton, callbacks) {
     this.durationInput = durationInput;
     this.startButton = startButton;
