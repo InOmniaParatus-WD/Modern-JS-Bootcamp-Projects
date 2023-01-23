@@ -1,0 +1,3 @@
+- The main idea of this application called **Movie Fight**  is that the user will be aboe to search for two movie titles and compare them based on certain information: awards, gross earnings, ratings and so on.
+- Fetches data from an external movie **[API](http://www.omdbapi.com/)**
+- Autocomplete widget built from scratch.

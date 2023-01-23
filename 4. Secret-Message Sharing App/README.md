@@ -1,0 +1,1 @@
+- An application through which the user can share a secret message with someone else

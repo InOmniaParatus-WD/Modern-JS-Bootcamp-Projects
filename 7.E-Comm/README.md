@@ -1,0 +1,2 @@
+- A full featured E-commerce app
+- Focused on how to use JavaScriptti build a web server and show some dynamic HTML pages

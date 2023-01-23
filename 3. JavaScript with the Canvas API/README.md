@@ -1,0 +1,3 @@
+- A maze application working in the browser
+- Maze written from scratch with JavaScript
+-[Matter.js](https://brm.io/matter-js/) 2D physics engine for the web
