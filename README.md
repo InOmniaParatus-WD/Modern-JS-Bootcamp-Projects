@@ -1,0 +1,1 @@
+A collection of JavaScript projects as part of the Udemy certification **[The Modern JavaScript Bootcamp](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)** by Colt Stele and Stephen Grainder.

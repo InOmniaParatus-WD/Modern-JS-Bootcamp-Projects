@@ -1,0 +1,2 @@
+- A timer app based entirely inside the browser
+- Focus on practicing basic JS skills, particularly classes and functions.
