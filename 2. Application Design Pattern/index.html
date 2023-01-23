@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.1.2/axios.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.4/css/bulma.min.css" />
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <section class="hero is-primary is-bold">
+        <div class="hero-body">
+            <div class="container">
+                <h1 class="title">
+                    Movie Fight
+                    <span class="icon">
+                        <i class="fas fa-film"></i>
+                    </span>
+                </h1>
+            </div>
+        </div>
+    </section>
+    
+    <div class="container">
+        <div class="columns">
+            <div class="column">
+                <div id="left-autocomplete"></div>
+                <div id="left-summary"></div>
+            </div>
+            <div class="column">
+                <div id="right-autocomplete"></div>
+                <div id="right-summary"></div>
+            </div>
+        </div>
+        <div class="column is-half notification is-primary tutorial">
+            <h1 class="title">
+                Search for a movie on both sides
+            </h1>
+            <p class="subtitle">We will tell you which one is best!</p>
+        </div>
+
+    </div>
+    <script src="utils.js"></script>
+    <script src="autocomplete.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

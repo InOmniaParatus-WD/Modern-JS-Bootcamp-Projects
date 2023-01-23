@@ -1,0 +1,32 @@
+[
+  {
+    "email": "monkey@test.com",
+    "password": "cbc303a4630173f7d0c95a66977ba2ac4533b055889964aa180ec3c2f77edf882af8f185c4a0e6b7935a2660fa303f11c510059f8f45ce50d5648fd23a16e065.f79adf37c0627a4f",
+    "id": "d3e4a45b"
+  },
+  {
+    "email": "anothermonkey@test.com",
+    "password": "dfe180b6bd16159960b73c7c659a785afd7fc621ba375460b5e296b8234d601dd309d5778737486b1c6d1d421a21efa3e04f9b6c9d90ec14f83b640fc61cf0dc.0f19a7f77313b966",
+    "id": "7ed61836"
+  },
+  {
+    "email": "newuser@test.com",
+    "password": "e9d67d0cf21d2913f2376a26c950bd86ea5a162b6377fa5099b6c61c667a3941d0af63b1bf5cb79da7c976c88a9defe21972bdda55565cf56ced0e16f7478308.36660cbcab858a22",
+    "id": "4886cbcb"
+  },
+  {
+    "email": "monkey2@test.com",
+    "password": "3b9189e13e6327100bdec5cf8a336e55226f04520d7a2ef62d18d1ec00adc3aedc9731f89088deba2000bf654b69cd41134b85ae8a2a3ef34c09cdd261bee384.623fa30e976e4143",
+    "id": "11175798"
+  },
+  {
+    "email": "products@test.com",
+    "password": "a7f44688f9ce87e627c2963bafa4f93cef8515517224ef549e32c06b4f47c0aef13f7654c70187a42988c810e95b38a7eda756224463d5f618df69df0f4ca62e.464f8c770fbc8aaa",
+    "id": "fb01b276"
+  },
+  {
+    "email": "newaccount@test.com",
+    "password": "bd0d0d08ea3300f9356fe12480035d32e55f25d447c0ee363ff40c2cd289b47c6b90061f75400289a8fc45806bb829a22ba6d2b94cd59b643bb5e51e8e14db98.2d7e402f62a07edf",
+    "id": "ce1350f6"
+  }
+]
